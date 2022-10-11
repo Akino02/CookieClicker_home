@@ -20,7 +20,7 @@ let cookies = 0;                                 // test co je to proměné - do
 let autoclickerPrice = 100;
 let autoclickerIncrease = 0;
 
-let clickupgradePrice = 50;                       // test označení pro proměné - let const
+let clickupgradePrice = 50;                       // test označení pro proměné - let, const
 let clickupgradeIncrease = 1;
 
 
