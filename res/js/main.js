@@ -11,7 +11,7 @@ console.log(`name: ${name}, age: ${age}`);
 const x = 15;
 x = 14;*/
 const cookie = document.getElementById("cookie");                // test jak převést ID z html do Javascriptu
-const counter = document.getElementById("counter");
+const counter = document.getElementById("counter");              // první třída je do javascriptu a ta druhá je z html
 const autoclicker = document.getElementById("autoclicker");
 const clickupgrade = document.getElementById("clickupgrade");
 
