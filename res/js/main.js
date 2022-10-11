@@ -15,12 +15,12 @@ const counter = document.getElementById("counter");              // první tří
 const autoclicker = document.getElementById("autoclicker");
 const clickupgrade = document.getElementById("clickupgrade");
 
-let cookies = 0;                                 // test co je to proměné- dosazení za písmeno nebo za text nějaké číslo od uživatele nebo od systému
+let cookies = 0;                                 // test co je to proměné - dosazení za písmeno nebo za text nějaké číslo od uživatele nebo od systému
 
 let autoclickerPrice = 100;
 let autoclickerIncrease = 0;
 
-let clickupgradePrice = 50;                       // test označení pro proměnné let const
+let clickupgradePrice = 50;                       // test označení pro proměné - let const
 let clickupgradeIncrease = 1;
 
 
