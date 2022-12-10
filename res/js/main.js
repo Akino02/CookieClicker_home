@@ -23,7 +23,6 @@ let autoclickerIncrease = 0;
 let clickupgradePrice = 50;                       // test označení pro proměné - let, const
 let clickupgradeIncrease = 1;
 
-
 cookie.onclick = () => {               // test jak se ošetřuje kliknutí
   cookies += clickupgradeIncrease;
   counter.innerHTML = cookies;
