@@ -53,15 +53,3 @@ autoclicker.onclick = () => {
     autoclickerIncrease++;
   }
 };
-
-
-
-
-
-
-
-
-
-
-
-
