@@ -12,7 +12,7 @@ body{
     width: 100%;
     border-bottom: 5px solid rgb(241, 217, 186);
     margin-bottom: 30px;
-    background: url(../img/background-cookie.jpg);
+    background-color: aqua;
     background-position: bottom;
     background-repeat: no-repeat;
 }
